@@ -1,0 +1,7 @@
+/vendor
+/web/bundles
+.*.sw?
+/app/config/parameters.ini
+/web/content
+/app/cache
+/app/logs
